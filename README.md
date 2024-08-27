@@ -19,8 +19,8 @@ Esta API fornece funcionalidades para o gerenciamento de medidas de clientes, in
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seuusuario/seurepositorio.git
-    cd seurepositorio
+    git clone https://github.com/salles18/APIREST_Shopper.git
+    cd APIREST_Shopper
     ```
 
 2. Instale as dependências:
